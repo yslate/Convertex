@@ -1,5 +1,9 @@
 # Convertex 1.0
 
+
+<img width="1439" alt="Screenshot 2025-02-26 at 3 36 57 PM" src="https://github.com/user-attachments/assets/c6228f4c-ac85-4d87-905d-fe50d93a5836" />
+
+
 Ein schneller und einfacher Bildkonverter für macOS.
 
 ## Features
